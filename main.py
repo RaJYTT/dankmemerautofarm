@@ -52,9 +52,6 @@ async def autodank(ctx):
             print(f"{Fore.GREEN}succefully sent pls hunt")
             await ctx.send('pls beg')
             print(f"{Fore.GREEN}succefully sent pls beg")
-            await asyncio.sleep(1)
-            await ctx.send('pls dep all')
-            print(f"{Fore.GREEN}succefully sent pls dep all")
             await asyncio.sleep(35)  
 
 
